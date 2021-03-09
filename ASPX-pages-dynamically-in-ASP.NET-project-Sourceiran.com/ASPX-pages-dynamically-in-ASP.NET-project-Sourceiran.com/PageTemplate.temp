@@ -1,0 +1,9 @@
+<%@ Page Language="C#" MasterPageFile="MainMaster.master" 
+CodeFileBaseClass="BasePage" AutoEventWireup="true" CodeFile="CommonCodeBehind.cs" 
+Inherits="CommonCodeBehind" PageID="[ID]" Title="[Title]" MetaKeywords="[key]" MetaDescription="[MetaDes]" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
+[PageContent]
+</asp:Content>
+
+
+
